@@ -68,7 +68,7 @@
                         <b-modal id="modal-5" title="Primeiro componente">
                            <iframe width="560" height="315" src="https://www.youtube.com/embed/-RRnqi5P8ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </b-modal>
-                        <span>Aula IIII</span>
+                        <span>Aula III</span>
                     </b-col>
                 </b-row> 
                 <div class="in-tech__rating">
