@@ -24,9 +24,9 @@ export const router = new Router({
       path: '/login',
       component: Login
     },
-    {wfgdsfgsdfg
+    {
       path: '/register',
-      component: Register 
+      component: Register
     },
     {
       path: '/indique',
