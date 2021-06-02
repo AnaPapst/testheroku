@@ -9,7 +9,7 @@
                             <img src="../images/thumbnail_html.png">
                         </b-button>
                         <b-modal id="modal-1" title="Introdução">
-                            <iframe width="560" height="315" src="https://youtu.be/h0VhHkekmOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/h0VhHkekmOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <b-form-checkbox switch size="lg">Eu assisti</b-form-checkbox>
                         </b-modal>
                         <span>Aula I</span>
@@ -19,7 +19,7 @@
                             <img src="../images/thumbnail2_html.png">
                         </b-button>
                         <b-modal id="modal-2" title="Primeiro componente">
-                            <iframe width="560" height="315" src="https://youtu.be/5Wgo3raLvRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/5Wgo3raLvRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </b-modal>
                         <span>Aula II</span>
                     </b-col>
@@ -28,7 +28,7 @@
                             <img src="../images/thumbnail3_html.png">
                         </b-button>
                         <b-modal id="modal-4" title="Introdução">
-                            <iframe width="560" height="315" src="https://youtu.be/DXI-Tr-u3Hc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/DXI-Tr-u3Hc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </b-modal>
                         <span>Aula III</span>
                     </b-col>
@@ -48,7 +48,7 @@
                             <img src="../images/thumbnail4_html.png">
                         </b-button>
                         <b-modal id="modal-5" title="Primeiro componente">
-                            <iframe width="560" height="315" src="https://youtu.be/gxH2d_sufvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/gxH2d_sufvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </b-modal>
                         <span>Aula I</span>
                     </b-col>
@@ -57,7 +57,7 @@
                             <img src="../images/thumbnail5_html.png">
                         </b-button>
                         <b-modal id="modal-5" title="Primeiro componente">
-                            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=3LS_Apr3v_Y&list=PL7zZDQuH9vc99zhu7CLktHQ27vU7iG8mN&index=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/3LS_Apr3v_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </b-modal>
                         <span>Aula II</span>
                     </b-col>
@@ -66,7 +66,7 @@
                             <img src="../images/thumbnail6_html.png">
                         </b-button>
                         <b-modal id="modal-5" title="Primeiro componente">
-                            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=-RRnqi5P8ls&list=PL7zZDQuH9vc99zhu7CLktHQ27vU7iG8mN&index=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                           <iframe width="560" height="315" src="https://www.youtube.com/embed/-RRnqi5P8ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </b-modal>
                         <span>Aula IIII</span>
                     </b-col>
