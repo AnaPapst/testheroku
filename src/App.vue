@@ -24,7 +24,7 @@
                 <router-link to="/mod" class="nav-link">Moderator Board</router-link>
               </li>
               <li class="nav-item">
-                <router-link v-if="currentUser" to="/aulas" class="nav-link">Aulas</router-link>
+                <router-link to="/aulas" class="nav-link">Aulas</router-link>
               </li>
               <li class="nav-item">
                 <router-link to="/indique" class="nav-link">Indique uma amiga</router-link>

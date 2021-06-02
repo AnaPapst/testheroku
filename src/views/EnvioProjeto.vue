@@ -2,7 +2,7 @@
     <div class="in-tech__banner">
         <div class="in-tech__banner--info">
             <p>Para enviar o seu projeto é muito simples!</p>
-            <p>Basta enviar para o email <span class="email">vue_womanintech@gmail.com</span> e aguardar o nosso contato!</p>
+            <p>Basta enviar para o email <span class="email">girlslov3tech@gmail.com</span> e aguardar o nosso contato!</p>
             <p>Estamos ansiosas para ver o seu trabalho!</p>
         </div>
         <img src="../images/send.png">

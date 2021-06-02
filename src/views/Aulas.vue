@@ -44,22 +44,31 @@
             <b-container fluid="lg">
                 <b-row>
                     <b-col class="in-tech__img">
-                        <b-button v-b-modal.modal-4>
-                            <img src="../images/thumbnail3_html.png">
-                        </b-button>
-                        <b-modal id="modal-4" title="Introdução">
-                            <iframe width="560" height="315" src="https://youtu.be/DXI-Tr-u3Hc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        </b-modal>
-                        <span>Introdução</span>
-                    </b-col>
-                    <b-col class="in-tech__img">
                         <b-button v-b-modal.modal-5>
                             <img src="../images/thumbnail4_html.png">
                         </b-button>
                         <b-modal id="modal-5" title="Primeiro componente">
                             <iframe width="560" height="315" src="https://youtu.be/gxH2d_sufvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </b-modal>
-                        <span>Primeiro componente</span>
+                        <span>Aula I</span>
+                    </b-col>
+                    <b-col class="in-tech__img">
+                        <b-button v-b-modal.modal-5>
+                            <img src="../images/thumbnail5_html.png">
+                        </b-button>
+                        <b-modal id="modal-5" title="Primeiro componente">
+                            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=3LS_Apr3v_Y&list=PL7zZDQuH9vc99zhu7CLktHQ27vU7iG8mN&index=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </b-modal>
+                        <span>Aula II</span>
+                    </b-col>
+                    <b-col class="in-tech__img">
+                        <b-button v-b-modal.modal-5>
+                            <img src="../images/thumbnail6_html.png">
+                        </b-button>
+                        <b-modal id="modal-5" title="Primeiro componente">
+                            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=-RRnqi5P8ls&list=PL7zZDQuH9vc99zhu7CLktHQ27vU7iG8mN&index=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </b-modal>
+                        <span>Aula IIII</span>
                     </b-col>
                 </b-row> 
                 <div class="in-tech__rating">
@@ -83,7 +92,7 @@ export default {
   data() {
     return {
       content: '',
-      value: 3.555
+      value: 4.5
     };
   },
   mounted() {
